@@ -15,7 +15,7 @@
 
 ## Как получить TSI?
 
-Есть статья, где все описано https://catsalut.gencat.cat/ca/coneix-catsalut/acces-sistema-salut/la-tsi/obtencio-tsi/ . Алгоритм по итогу
+Есть [статья](https://catsalut.gencat.cat/ca/coneix-catsalut/acces-sistema-salut/la-tsi/obtencio-tsi/ ), где все описано. Алгоритм по итогу
 
 1. получаем NIE(он будет в approval letter при получение workpermit)
 2. [снимаем квартиру](aparts.md)
@@ -23,7 +23,7 @@
 4. идем в seguridad social и прикрепляем депендантов к своему рабочему контракту
     1. [Берем ситу в seguridad social](https://w6.seg-social.es/ProsaInternetAnonimo/OnlineAccess?ARQ.SPM.ACTION=LOGIN&ARQ.SPM.APPTYPE=SERVICE&ARQ.IDAPP=XV106001&ORGANISMO=I)
     2. Приходим и прикрепляем всех депандентов к ssn работающего
-5. Заполняем форму https://salut.gencat.cat/pls/rca/RCAPKTSI.SOLICITAR_TSI
+5. Заполняем форму [salut.gencat.cat/pls/rca/RCAPKTSI.SOLICITAR_TSI](https://salut.gencat.cat/pls/rca/RCAPKTSI.SOLICITAR_TSI)
 6. На электронку приходит pdf с которой можно обращаться
 7. Прикрепляемся к больнице
 8. Дожидаемся пластиковой карточки в почтовом ящике
@@ -56,8 +56,8 @@
 5. Если дмс оформили до 5 числа, то действовать начнет на следующий месяц. Если позже, то на 2ой календарный месяц
 6. получаес пдф/физическую карточку на почту
 7. активируем карточку на сайте из памятки
-8. Регестрируемся на сайте https://clientes.mapfre.es или приложение https://apps.apple.com/es/app/mapfre-seguros/id425349256?l=en
-9. Ставим приложение для записи в мед учреждения(или через сайт)  https://apps.apple.com/es/app/mapfre-salud/id1083924566?l=en
+8. Регестрируемся на сайте [clientes.mapfre.es](https://clientes.mapfre.es) или приложение [apps.apple.com/es/app/mapfre-seguros/id425349256?l=en](https://apps.apple.com/es/app/mapfre-seguros/id425349256?l=en)
+9. Ставим приложение для записи в мед учреждения(или через сайт) [https://apps.apple.com/es/app/mapfre-salud/id1083924566?l=en](https://apps.apple.com/es/app/mapfre-salud/id1083924566?l=en)
 10. подписываем экземпляр документов отмеченный «копия компании)
 11. Складываем в приложенный конверт. Можно отправить обратно почтой
 12. Дмс традиционно расторгнуть нельзя одним днем. За месяц только. И по-моему минимум на один год

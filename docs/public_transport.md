@@ -2,9 +2,9 @@
 
 Все не очень хорошо и разрозненно
 
-1. Все остановки общественного транспорта http://mou-te.gencat.cat или https://apps.apple.com/es/app/mou-te/id1601637480?l=en
-2. Можно попробовать строить маршруты через https://apps.apple.com/es/app/moovit-public-transport-live/id498477945?l=en но знает не все
-3. Поезда можно смотреть на сайте https://www.renfe.com/ или приложение https://apps.apple.com/es/app/renfe/id1544224672?l=en переодически подвисают
+1. Все остановки общественного транспорта [mou-te.gencat.cat](http://mou-te.gencat.cat) или [apps.apple.com/es/app/mou-te/id1601637480?l=en](https://apps.apple.com/es/app/mou-te/id1601637480?l=en)
+2. Можно попробовать строить маршруты через [apps.apple.com/es/app/moovit-public-transport-live/id498477945?l=en](https://apps.apple.com/es/app/moovit-public-transport-live/id498477945?l=en) но знает не все
+3. Поезда можно смотреть на сайте [www.renfe.com/](https://www.renfe.com/) или приложение [apps.apple.com/es/app/renfe/id1544224672?l=en](https://apps.apple.com/es/app/renfe/id1544224672?l=en) переодически подвисают
 
 Я обычно пользуюсь поездом тк там абонемент и продлили на 23 год.
 
@@ -15,8 +15,6 @@
 
 * Для ребенка 6 лет нужен полноценный билет
 * в общественном транспорте обязательно носить маски
-* как купить абонемент https://t.me/lev2tarragona/74
-
 
 ## Train
 
@@ -29,8 +27,8 @@
 
 При стоимости € 2,5  за поездку нужно брать. Можно в автомате, кассе и приложение:
 
-* https://telegra.ph/Besplatnye-poezda-Renfe-09-04
-* https://www.renfe.com/es/es/grupo-renfe/sociedades/renfe-viajeros/abonos-renfe/abonos-rodalies-catalunya
+* [telegra.ph/Besplatnye-poezda-Renfe-09-04](https://telegra.ph/Besplatnye-poezda-Renfe-09-04)
+* [www.renfe.com/es/es/grupo-renfe/sociedades/renfe-viajeros/abonos-renfe/abonos-rodalies-catalunya](https://www.renfe.com/es/es/grupo-renfe/sociedades/renfe-viajeros/abonos-renfe/abonos-rodalies-catalunya)
 * Venda de Billets -> выбор конечной точки -> Abonaments -> Ab. Recurrente.
 
 У нас карточки не было, только наличка поэтому пошли через кассу брать.
@@ -45,11 +43,11 @@
 
 ## Reus - Tarragona
 
-1. последний автобус Реус -> Таррагона уезжает 22:05 https://www.canalreustv.cat/sites/default/files/2017-01/BUS_REUS_TARRAGONA.pdf и https://www.monbus.es/en
-2. последний поезд в 21:19 https://venta.renfe.com/vol/search.do?c=_gLlK
+1. последний автобус Реус -> Таррагона уезжает 22:05 [www.canalreustv.cat/sites/default/files/2017-01/BUS_REUS_TARRAGONA.pdf](https://www.canalreustv.cat/sites/default/files/2017-01/BUS_REUS_TARRAGONA.pdf) и [www.monbus.es/en](https://www.monbus.es/en)
+2. последний поезд в 21:19 [venta.renfe.com/vol/search.do?c=_gLlK](https://venta.renfe.com/vol/search.do?c=_gLlK)
 3. каршера нет
-4. приложений такси нет, нужно звонить  +34977345050 (должны говорить по английский, но это не точно) или заказывать через сайт http://www.taxisreus.com/
-5. искать коллег с авто, но дети до 12 лет или 135см должны езлить в кресле https://www.zurich.es/blog/llevar-ninos-coche-sillitas-infantiles-normativa
+4. приложений такси нет, нужно звонить +34977345050 (должны говорить по английский, но это не точно) или заказывать через сайт [www.taxisreus.com](http://www.taxisreus.com/)
+5. искать коллег с авто, но дети до 12 лет или 135см должны езлить в кресле [www.zurich.es/blog/llevar-ninos-coche-sillitas-infantiles-normativa](https://www.zurich.es/blog/llevar-ninos-coche-sillitas-infantiles-normativa)
 
 ездили в Реус на пати с коллегами(типа интеграционная программа). Пати начиналось 20:30 и закончилось около 0.
 
