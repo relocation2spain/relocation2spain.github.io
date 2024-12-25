@@ -5,10 +5,10 @@
 1. знать номер NIE
 2. иметь испанский номер телефона
 3. Записаться на подачу отпечатковв течение первых 30 дней
-    1. зайти на  https://icp.administracionelectronica.gob.es/icpplus/index.html
+    1. зайти на [icp.administracionelectronica.gob.es/icpplus/index.html](https://icp.administracionelectronica.gob.es/icpplus/index.html)
     2. взять ситу на POLICIA-TOMA DE HUELLA (EXPEDICIÓN DE TARJETA), RENOVACIÓN DE TARJETA DE LARGA DURACIÓN Y DUPLICADO
 4. сделать фотки, На TIE нужно одно фото 26х32мм.
-5. Оплатить пошлину https://t.me/lev2tarragona/375
+5. Оплатить пошлину
 6. Подготовить документы
     * Approval letters
     * Appointment receipt

@@ -25,10 +25,9 @@
 * Никто не будет жестить, если вы культурно и без вреда
 * алкоголизм=негатив от сотрудников,т.к не ясно что ожидать
 * Цитаты местного:
-    * You can do wild camp with your tent, make your dinner, drink a beer, make coffe, sleep... whatever, but try to pick up everything at the next morning and change the place. Because, in Spain camping is prohibited, overnight stays are allowed (not in all places).
-    * Please be carefull with the environment, do not leave your rubish.
-    * In the nature reserve's or natural parks, is not allowed to camp and overnight neither
-
+  * You can do wild camp with your tent, make your dinner, drink a beer, make coffe, sleep... whatever, but try to pick up everything at the next morning and change the place. Because, in Spain camping is prohibited, overnight stays are allowed (not in all places).
+  * Please be carefull with the environment, do not leave your rubish.
+  * In the nature reserve's or natural parks, is not allowed to camp and overnight neither
 
 В продолжение темы туризма. Мне привычно 2 формата:
 
