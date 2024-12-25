@@ -1,4 +1,7 @@
+plugins:
+  - jekyll-redirect-from
 theme: jekyll-theme-minimal
 title: Relocation to Spain
-description: Usefull guide
+description: Useful guide
 show_downloads: false
+google_analytics: UA-248569814-1

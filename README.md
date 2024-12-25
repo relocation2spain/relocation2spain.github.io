@@ -2,29 +2,25 @@
 
 ![about](assets/route.jpg?raw=true)
 
+По приезду предстоит сделать множество дел:
+
+1. [Подключить временную сим карту](docs/sim_internet.md).
+2. [Снять постоянные апартаменты](docs/aparts.md).
+3. [Открыть банковский аккаунт](docs/bank.md).
+4. [Податься на ТИЕ](docs/tie.md).
+5. [Зарегистрироваться в постоянных апартаментах(падрон)](docs/padron.md).
+6. [Получить мед страховку. ОМС или ДМС](docs/medicine.md).
+7. [Отправить ребенка в школу](docs/school.md).
+8. [Переоформить комуальные счета](docs/utilities.md).
+9. [Заключить страховку на апартаменты](dos/ins.md).
+
+Полезное:
+
 * [Blue Card vs HQP](docs/bc_vs_hqp.md)
+* [Telegram chats](docs/telegram_chats.md)
 * [Грузоперевозки РФ - Испания](https://docs.google.com/spreadsheets/d/1PVWHEYeJxmWlcaeQYp5mmp3yDQzqSA9JLdz1erdElxk/edit)
-* [sim tariffs spain](https://docs.google.com/spreadsheets/d/10n4WWPOoEAwnhx7fYgffp--nsEqaibjZNtyZBXsdutw/edit#gid=0)
-* [Spain banks](https://docs.google.com/spreadsheets/d/13sXHQ3hroZHzRuKDCsbN0EoTmET34isvS1sVXQSiYak/edit#gid=2026980894)
-
-## Telegram chats
-
-* [Иберейские разборки](https://t.me/desmontaje_iberico)
-* [Все об IT в Испании](https://t.me/IT_Spain)
-* [Виза D Испания](https://t.me/visadesp)
-* [Испания. Дом](https://t.me/esp_casa)
-* [Испания. Деньги](https://t.me/esp_dinero)
-* [Испания. Авто](https://t.me/drive_es)
-* [Испания. Здоровье](https://t.me/esp_salud)
-* [Испания. Образование](https://t.me/esp_educacion)
-* [Испания. IT, связь, электроника](https://t.me/esp_it)
-* [Испания. Туризм](https://t.me/esp_turismo)
-* [Испания. Разговорник](https://t.me/esp_blabla)
-* [Испания. Хобби](https://t.me/esp_hobby)
-* [Испания. Инфоботы](https://t.me/infobots_spain)
-
-## Usefull google docs
-
-* [Грузоперевозки РФ - Испания](https://docs.google.com/spreadsheets/d/1PVWHEYeJxmWlcaeQYp5mmp3yDQzqSA9JLdz1erdElxk/edit)
-* [sim tariffs spain](https://docs.google.com/spreadsheets/d/10n4WWPOoEAwnhx7fYgffp--nsEqaibjZNtyZBXsdutw/edit#gid=0)
-* [Spain banks](https://docs.google.com/spreadsheets/d/13sXHQ3hroZHzRuKDCsbN0EoTmET34isvS1sVXQSiYak/edit#gid=2026980894)
+* [Change region in applestore](docs/applestore.md)
+* [Сортировка мусора](docs/trash.md)
+* [Сколько денег готовить на первый месяц?](docs/first_month.md)
+* [Как обновить загран паспорт?](docs/passport.md)
+* [Как работает местный авито wallapop и почта?](docs/wallapop.md)
