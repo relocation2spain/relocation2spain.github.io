@@ -26,6 +26,7 @@
 ## Каналы
 
 * [Иберейские разборки(юрист про налоги и деньги)](https://t.me/desmontaje_iberico)
+* [о ведении аутономо и связанной бюрократии](https://t.me/espanevo)
 * [Каталонский вестник](https://t.me/catalunyaTriomfant)
 * [Испания: Главные новости](https://t.me/noticiaru)
 * [Разбор испанский идиом и фраз](https://t.me/penelopaa)
